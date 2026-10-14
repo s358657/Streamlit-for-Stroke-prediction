@@ -18,9 +18,6 @@ Make sure you have the following installed on your system:
 * Python (version 3.8 or higher)
 * Pip (Python package manager)
 
-## 🚀 Installation & Local Setup
-
-Follow these steps to clone and run the project on your local machine:
 
 ## 🚀 Installation & Local Setup
 
