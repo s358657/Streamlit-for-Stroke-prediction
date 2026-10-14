@@ -21,3 +21,16 @@ Make sure you have the following installed on your system:
 ## 🚀 Installation & Local Setup
 
 Follow these steps to clone and run the project on your local machine:
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/s358657/Streamlit-for-Stroke-prediction.git](https://github.com/s358657/Streamlit-for-Stroke-prediction.git)
+cd Streamlit-for-Stroke-prediction
+
+### 2.Install dependencies
+```bash
+pip install -r requirements.txt
+
+### 3.Run the application
+```bash
+streamlit run Home.py
